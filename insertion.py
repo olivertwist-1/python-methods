@@ -1,4 +1,4 @@
-def insert(lista: list, index: int, item):
+def insert(lista: list, index: int, item) -> list:
 
   """Insert the given item to your list"""
 
