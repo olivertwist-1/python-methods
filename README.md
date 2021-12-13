@@ -1,7 +1,7 @@
 # python-methods
 Python default methods
 
-## Helpers
+## Helpers in print_function method
 ```
 1. ! Noah#7573
 2. Heet#5656
